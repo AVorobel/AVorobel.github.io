@@ -47,7 +47,7 @@ header {
 footer {
   background-color: black;
   height: 300px;
-  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif, cursive;
+  font-family: Monospace;
   font-size: 17px;
   width: 100%;
   margin: 0;
@@ -115,7 +115,7 @@ footer {
   color: white;
   width: auto;
   text-align: center;
-  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif, cursive;
+  font-family: Monospace;
   font-size: 20px;
   padding: 0 10px 0 10px;
   display: flex;
@@ -150,7 +150,7 @@ footer {
   align-items: center;
   opacity: 0.75;
   padding: 10px 25px 10px 25px;
-  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif, cursive;
+  font-family: Monospace;
 }
 
 .auth-btn:hover {
