@@ -772,6 +772,19 @@ body.overflow-hidden{
 }
 
 @media screen and (max-width: 576px){
+  .xs-section-height-1_5x{
+    height: 150vh;
+  }
+  .xs-section-height-1_25x{
+    height: 125vh;
+  }
+  .xs-section-height-1_125x{
+    height: 112.5vh;
+  }
+  .xs-section-height-1x{
+    height: 100vh;
+  }
+
   .d-xs-inline{
     display: inline;
   }
